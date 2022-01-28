@@ -13,7 +13,7 @@
 This Project contains multiple sections with a navbar that is dynamically made and styled through JavaScript with some assistance of CSS. the main purpose of this project was to create a webpage that can interact with users and implant what we have learned through JavaScript.
 
 ## How to Run?
-* To run this project, you must have to download the three files of this project:
+ To run this project, you must have to download the three files of this project:
 * HTML file (LandingPage.HTML) which contains the basic skeleton of the project.
 * CSS folder which has inside file (styles.CSS) which contains all the styles of the project.
 * Js folder which has inside file (app.JS) which contains all the dynamic codes for the dynamic navbar. 
